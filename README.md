@@ -10,8 +10,8 @@ Link catre documentatii:
 * Video-ul cu modelarea si modelele 3d se gasesc in folderul saptamana 7
 
 Progres saptamana 7:
-*Am inceput modelarea de la 0. Progres: de la nimic -> la tot ce e in folderul sapt 7. Facut complet de noi.
-*Am modelat: 
+* Am inceput modelarea de la 0. Progres: de la nimic -> la tot ce e in folderul sapt 7. Facut complet de noi.
+* Am modelat: 
   * Coloana
   * Parthenon
   * Templul de la intrare
