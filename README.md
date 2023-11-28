@@ -20,4 +20,4 @@ Progres saptamana 7:
 Pentru saptamana 9:
  * Cum anumite fbx-uri erau prea mari pentru a le pune pe git vom lasa link pentru a le descarca din drive:
    * Model complet: https://drive.google.com/file/d/1Kl_4Irm6Ewf3gBuMFTZ5beXI5DZ_xbur/view?usp=sharing
-   * Parthenon: 
+   * Parthenon: https://drive.google.com/file/d/1fK0415ZaWEGNlypVpXl5Imjkno1cgpUT/view?usp=drive_link
