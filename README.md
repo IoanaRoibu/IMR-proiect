@@ -21,3 +21,8 @@ Pentru saptamana 9:
  * Cum anumite fbx-uri erau prea mari pentru a le pune pe git vom lasa link pentru a le descarca din drive:
    * Model complet: https://drive.google.com/file/d/1Kl_4Irm6Ewf3gBuMFTZ5beXI5DZ_xbur/view?usp=sharing
    * Parthenon: https://drive.google.com/file/d/1fK0415ZaWEGNlypVpXl5Imjkno1cgpUT/view?usp=drive_link
+  
+Saptamana 10:
+ * Am terminat meniul principal (Aspectul e gata si butoanele sunt functionale fara sunet.)
+ * Am animat un spartan sa para ca vorbeste si am facut o pagina cu how to play. Aspectul e gata. Mai trebuie sa punem sunetul si sa facem ca spartanul sa faca animatia in continuu.
+ * Am reparat peretii lipsa (unul singur mai are probleme, dar orice am face nu apare).
