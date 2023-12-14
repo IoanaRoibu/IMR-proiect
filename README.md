@@ -26,3 +26,8 @@ Saptamana 10:
  * Am terminat meniul principal (Aspectul e gata si butoanele sunt functionale fara sunet.)
  * Am animat un spartan sa para ca vorbeste si am facut o pagina cu how to play. Aspectul e gata. Mai trebuie sa punem sunetul si sa facem ca spartanul sa faca animatia in continuu.
  * Am reparat peretii lipsa (unul singur mai are probleme, dar orice am face nu apare).
+
+Saptamana 11:
+ * Am pus controllere in toate cele 3 scene. Urmeaza sa atasam maini modelate controllerelor.
+ * Am pus texturi pentru cateva elemente: o textura pentru deal si 2 texturi diferite pentru coloane.
+ * Still working on textures. 
