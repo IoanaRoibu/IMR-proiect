@@ -29,5 +29,5 @@ Saptamana 10:
 
 Saptamana 11:
  * Am pus controllere in toate cele 3 scene. Urmeaza sa atasam maini modelate controllerelor.
- * Am pus texturi pentru cateva elemente: o textura pentru deal si 2 texturi diferite pentru coloane.
+ * Am pus texturi pentru cateva elemente: o textura pentru deal si 2 texturi diferite pentru coloane + la detalii la Parthenon.
  * Still working on textures. 
