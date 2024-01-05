@@ -37,4 +37,4 @@ Saptamana 12:
 * Am pus texturi.
 * Personajul nostru merge, este controlat de taste monentan, dar se poate modifica pentru controllere.
 * Are animatie cand merge si cand sta. Camera il urmareste. Inca lucram ca atunci cand el schimba directia sa se roteasca si camera
-  Link catre proiect: https://1drv.ms/f/s!Ascx8kxy0IR5-2Goik8qHuBQHtX5?e=8hZWMa
+* Link catre proiect: https://1drv.ms/f/s!Ascx8kxy0IR5-2Goik8qHuBQHtX5?e=8hZWMa
