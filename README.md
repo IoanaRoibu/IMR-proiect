@@ -33,6 +33,7 @@ Saptamana 11:
  * Still working on textures.
 
 Saptamana 12:
+* Am redus foarte mult numarul de puncte al fbx ului cu acropolele. De la 150 mb aproximativ la sub 20mb.
 * Am pus texturi.
 * Personajul nostru merge, este controlat de taste monentan, dar se poate modifica pentru controllere.
 * Are animatie cand merge si cand sta. Camera il urmareste. Inca lucram ca atunci cand el schimba directia sa se roteasca si camera
