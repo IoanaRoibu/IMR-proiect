@@ -30,4 +30,10 @@ Saptamana 10:
 Saptamana 11:
  * Am pus controllere in toate cele 3 scene. Urmeaza sa atasam maini modelate controllerelor.
  * Am pus texturi pentru cateva elemente: o textura pentru deal si 2 texturi diferite pentru coloane + la detalii la Parthenon.
- * Still working on textures. 
+ * Still working on textures.
+
+Saptamana 12:
+* Am pus texturi.
+* Personajul nostru merge, este controlat de taste monentan, dar se poate modifica pentru controllere.
+* Are animatie cand merge si cand sta. Camera il urmareste. Inca lucram ca atunci cand el schimba directia sa se roteasca si camera
+  Link catre proiect: https://1drv.ms/f/s!Ascx8kxy0IR5-2Goik8qHuBQHtX5?e=8hZWMa
