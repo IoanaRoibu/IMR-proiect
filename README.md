@@ -38,3 +38,8 @@ Saptamana 12:
 * Personajul nostru merge, este controlat de taste monentan, dar se poate modifica pentru controllere.
 * Are animatie cand merge si cand sta. Camera il urmareste. Inca lucram ca atunci cand el schimba directia sa se roteasca si camera
 * Link catre proiect: https://1drv.ms/f/s!Ascx8kxy0IR5-2Goik8qHuBQHtX5?e=8hZWMa
+
+Saptamana 13:
+* Camera urmareste spartanul cum trebuie. Cand schimba directia de mers la 180 grade se roteste si camera.
+* Am pus copaci si torte la care am inceput sa le facem sa lumineze
+* Am facut canvasul pentru scor care incearca sa urmareasca camera. Inca nu merge perfect
