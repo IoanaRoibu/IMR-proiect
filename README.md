@@ -41,5 +41,5 @@ Saptamana 12:
 
 Saptamana 13:
 * Camera urmareste spartanul cum trebuie. Cand schimba directia de mers la 180 grade se roteste si camera.
-* Am pus copaci si torte la care am inceput sa le facem sa lumineze
+* Am pus copaci si torte cu texturi. La torte am folosit Post Processing sa lumineze frumos flacara.
 * Am facut canvasul pentru scor care incearca sa urmareasca camera. Inca nu merge perfect
